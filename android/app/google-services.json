@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835777625547",
+    "project_id": "reactnativepoc-7cc5c",
+    "storage_bucket": "reactnativepoc-7cc5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835777625547:android:43db488dbdf35dd4d20a4e",
+        "android_client_info": {
+          "package_name": "com.pushprimerdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PFrnMPrK1ESvSexv1SnBX6LOLXfP4w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
